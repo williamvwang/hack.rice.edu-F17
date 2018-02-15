@@ -1,5 +1,7 @@
 # HackRice 7 Site Mirror
 
+Site Design &copy; 2018, William Wang
+
 This is a mirror of the HackRice 7 site from the Fall 2017 event.
 
 This is a Jekyll + Github pages site, with the index and related resources meant to be hosted relative to the root of a domain.
